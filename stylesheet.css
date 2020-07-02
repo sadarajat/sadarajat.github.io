@@ -1,6 +1,9 @@
 .title {
   color: #02ccba;
 }
+.clear {
+  clear:left;
+}
 .tim-kami {
   padding-bottom: 80px;
   padding-left: 5%;
