@@ -25,6 +25,7 @@
 .timf33-icon {
   position: relative;
   margin-bottom:10px;
+
 }
 .timf33-icon p {
   font-weight: bold;
@@ -33,6 +34,9 @@
   top: 90%;
   width: 100%;
   color: black;
+}
+.timf33-icon img {
+  width:40%;
 }
 .text-contents {
   width: 80%;
