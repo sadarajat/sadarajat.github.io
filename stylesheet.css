@@ -1,8 +1,4 @@
-.tim-kami {
-  width:1200px;
-  margin:0 auto;
 
-}
 .title {
   color: #02ccba;
 }
@@ -32,21 +28,21 @@
 }
 .timf33-icon {
   position: relative;
-}
-.timf33-icon img {
-  width:40%;
-}
+  margin-bottom:10px;
 
+}
 .timf33-icon p {
   font-weight: bold;
+  margin-top:10px:
   position: absolute;
   top: 90%;
   width: 100%;
   color: black;
 }
-
+.timf33-icon img {
+  width:40%;
+}
 .text-contents {
-  padding-top:10px;
   width: 80%;
   display: inline-block;
   font-size: 15px;
