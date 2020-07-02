@@ -3,3 +3,9 @@
     width:50%;
   }
 }
+
+@media (max-width:670px) {
+  .timf33 {
+    width:100%
+  }
+}
